@@ -24,28 +24,6 @@ SQLite (current storage)
 
 Snowflake (planned integration)
 
-
-
-⚙️ Project Structure
-Youtube-Analytics/
-│
-├── scripts/
-│   ├── fetch_youtube_data.py
-│   └── run_pipeline.py
-│
-├── data/
-│   └── youtube_data.csv
-│
-├── notebooks/
-│   └── exploratory_analysis.ipynb
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
-
-
-
-
 🧠 Challenges Faced
 
 Handling empty or inconsistent API responses
