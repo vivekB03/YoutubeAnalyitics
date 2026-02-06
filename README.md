@@ -24,6 +24,8 @@ SQLite (current storage)
 
 Snowflake (planned integration)
 
+
+
 ⚙️ Project Structure
 Youtube-Analytics/
 │
@@ -40,6 +42,9 @@ Youtube-Analytics/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+
+
 
 🧠 Challenges Faced
 
